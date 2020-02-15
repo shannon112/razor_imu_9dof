@@ -1,3 +1,8 @@
+Installation and Orientation
+----------------------------
+This pkg's "9DoF Razor IMU M0" configuration is the same as libhector_gazebo_ros_imu.so
+<img src="https://i.imgur.com/kfZrxDR.png" width="540"/>
+
 Official ROS Documentation
 --------------------------
 A much more extensive and standard ROS-style version of this documentation can be found on the ROS wiki at:
